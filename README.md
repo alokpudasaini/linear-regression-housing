@@ -25,7 +25,6 @@ The process includes:
 - Feature Scaling (Normalization)  
 - Vectorized Cost Function  
 - Batch Gradient Descent  
-- Hypothesis Function `h(x) = Xθ`  
 - Manual Prediction (no ML libraries)
 
 ---
